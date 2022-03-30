@@ -58,3 +58,9 @@ Once the data were finalized, the database file is then fed to a python script t
 ### Output in the Firebase
 ![](Blobs/firebase_output.png)
 After some hours, the data from the local SQLite db are already copied into the NoSQSL firebase firebase.
+
+## Constraints
+- Due to limitation of Firebase Firestore Free Tier, pushing previous years of canidadcy (2019, 2016, 2010, etc) is challenging due to time constraints and quota that firebase has allocated for free tier packages. 
+- Firebase only allows 50,000 document reads per day
+- Firebase only allows 20,000 document writes
+The total data for filed candidacy table alone has around 44,000 rows and another 44,000 rows on candidates table just for the 2022 candidates. This huge amount of data takes days or weeks to fully push all of the data. This also implies that including the previous years of candidacies will increase the amount of documment writes needed.
