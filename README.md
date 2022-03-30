@@ -1,6 +1,14 @@
 # Overview
 Our goal in gathering data was to provide voters with information on the 44,000 candidates running this upcoming elections. We sourced data from previous elections, to get previous candidacy details. We then tried processing election results which became a problem as Comelecs data was hacked and corrupted back in 2016. We also faced the problem of having to mine data with inconsistent formats, which required a different script each time.
 
+## Quick Links
+* [VeriPol Data Repository](https://github.com/Lion1446/Veripol_Data)
+* [VeriPol Blog](https://ardetech.notion.site/VeriPol-Blog-03630503e787402a91f6cd59f6d181ab)
+* [Subject Matter Experts Interview](https://ardetech.notion.site/Subject-Matter-Experts-4de6ae58fcfd49898fe6245b166ae8ea)
+* [Prototype](https://bit.ly/VeriPolPrototype)
+* [VeriPol Primer](https://bit.ly/VeriPolPrimer)
+
+
 ## Guide
 To reproduce the code, make sure to install all the dependencies and modules with respect to the python script you want to run. The libraries used in each python file are commented right beside the imports
 
