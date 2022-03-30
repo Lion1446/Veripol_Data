@@ -3,9 +3,9 @@ Our goal in gathering data was to provide voters with information on the 44,000 
 
 ## Quick Links
 * [VeriPol App Github](https://github.com/Panonce/VeriPol)
-* [VeriPol Blog](https://ardetech.notion.site/VeriPol-Blog-03630503e787402a91f6cd59f6d181ab)
-* [Subject Matter Experts Interview](https://ardetech.notion.site/Subject-Matter-Experts-4de6ae58fcfd49898fe6245b166ae8ea)
 * [Prototype](https://bit.ly/VeriPolPrototype)
+* [Subject Matter Experts Interview](https://ardetech.notion.site/Subject-Matter-Experts-4de6ae58fcfd49898fe6245b166ae8ea)
+* [VeriPol Blog](https://ardetech.notion.site/VeriPol-Blog-03630503e787402a91f6cd59f6d181ab)
 * [VeriPol Primer](https://bit.ly/VeriPolPrimer)
 
 
