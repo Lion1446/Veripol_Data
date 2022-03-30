@@ -1,3 +1,7 @@
+# Overview
+Our goal in gathering data was to provide voters with information on the 44,000 candidates running this upcoming elections. We sourced data from previous elections, to get previous candidacy details. We then tried processing election results which became a problem as the different websites 
+
+## Guide
 To reproduce the code, make sure to install all the dependencies and modules with respect to the python script you want to run. The libraries used in each python file are commented right beside the imports
 
 ## Data Scraping Journey
