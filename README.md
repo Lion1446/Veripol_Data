@@ -39,6 +39,7 @@ At this point, these 2 CSV files can be merged to one, but following through the
 ![](Blobs/step_5.png)
 The 2 CSV Files are fed to a python script that uses "csv" module to simplify the workload of iterating through each row of the CSV files.
 The extraction of data are done based on the Entity Relationship Diagram which are also made as class models in a python file.
+![](Blobs/ERD.png)
 At this step, it already requires SQLAlchemy to handle the database. The database contains the following tables
 - Location
 - Position
