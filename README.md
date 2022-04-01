@@ -2,13 +2,18 @@
 Our goal in gathering data was to provide voters with information on the 44,000 candidates running this upcoming elections. We sourced data from previous elections, to get previous candidacy details. We then tried processing election results which became a problem as Comelecs data was hacked and corrupted back in 2016. We also faced the problem of having to mine data with inconsistent formats, which required a different script each time.
 
 ## Quick Links
-* [VeriPol App Github](https://bit.ly/VeriPolGithub)
-* [VeriPol Beta Apk Release](https://bit.ly/VeriPolAPK_Beta_V01)
 
+### Github and App
+* [VeriPol App Github](https://bit.ly/VeriPolGithub)
+* [VeriPol Beta Apk Release](https://bit.ly/VeriPol_APK)
+
+### Documentation 
 * [VeriPol 2 Min Video Demo](https://bit.ly/VeriPol_AVP)
 * [VeriPol Blog](https://bit.ly/VeriPolTeamBlog)
 
+### Designs and other Docs
 * [Prototype](https://bit.ly/VeriPolPrototype)
+* [Mockups](https://bit.ly/VeriPol_Mockups)
 * [Subject Matter Experts Interview](https://bit.ly/VeriPol_SME_Interviews)
 * [VeriPol Primer](https://bit.ly/VeriPolPrimer)
 
