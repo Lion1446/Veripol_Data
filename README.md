@@ -1,11 +1,13 @@
 # Overview
+This repository is to show our progress in the Data Side of the application. For the application itself we created a separate github link
+
 Our goal in gathering data was to provide voters with information on the 44,000 candidates running this upcoming elections. We sourced data from previous elections, to get previous candidacy details. We then tried processing election results which became a problem as Comelecs data was hacked and corrupted back in 2016. We also faced the problem of having to mine data with inconsistent formats, which required a different script each time.
 
 ## Quick Links
 
 ### Github and App
 * [VeriPol App Github](https://bit.ly/VeriPolGithub)
-* [VeriPol Beta Apk Release](https://bit.ly/VeriPol_APK)
+* [VeriPol Alpha Apk Release](https://bit.ly/VeriPol_APK)
 
 ### Documentation 
 * [VeriPol 2 Min Video Demo](https://bit.ly/VeriPol_AVP)
@@ -17,6 +19,13 @@ Our goal in gathering data was to provide voters with information on the 44,000 
 * [Subject Matter Experts Interview](https://bit.ly/VeriPol_SME_Interviews)
 * [VeriPol Primer](https://bit.ly/VeriPolPrimer)
 
+
+# App Installation Guide
+1. Install the Latest APK release Here:
+* [APK Release](https://bit.ly/VeriPol_APK)
+
+For a more detailed instruction guide visit Veripol App Github
+* [VeriPol App Github](https://bit.ly/VeriPolGithub)
 
 ## Guide
 To reproduce the code, make sure to install all the dependencies and modules with respect to the python script you want to run. The libraries used in each python file are commented right beside the imports
