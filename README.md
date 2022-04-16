@@ -1,5 +1,5 @@
 # Overview
-This repository is to show our progress in the Data Side of the application. For the application itself we created a separate github link
+This repository is concerned about the data we're going to ingress to the application, like how we clean and process the data. For the application itself we created a separate github link
 
 Our goal in gathering data was to provide voters with information on the 44,000 candidates running this upcoming elections. We sourced data from previous elections, to get previous candidacy details. We then tried processing election results which became a problem as Comelecs data was hacked and corrupted back in 2016. We also faced the problem of having to mine data with inconsistent formats, which required a different script each time.
 
